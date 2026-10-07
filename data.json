@@ -1,0 +1,183 @@
+{
+  "businesses": [
+    {
+      "id": "most-everything-vintage",
+      "name": "Most Everything Vintage",
+      "category": "Vintage & Resale",
+      "address": "815 Washington St, Vancouver, WA 98660",
+      "trails": [
+        "Vintage & Resale",
+        "Date Night"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "relevant-coffee",
+      "name": "Relevant Coffee",
+      "category": "Coffee",
+      "address": "1703 Main St, Vancouver, WA 98660",
+      "trails": [
+        "Coffee & Chill",
+        "Arts & Culture"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "brewed-cafe-pub",
+      "name": "Brewed Cafe & Pub",
+      "category": "Cafe / Coffee",
+      "address": "603 Main St, Vancouver, WA 98660",
+      "trails": [
+        "Coffee & Chill",
+        "Food",
+        "Date Night"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "kafiex",
+      "name": "Kafiex Roasters \u2013 Coffee Lab",
+      "category": "Coffee / Roastery",
+      "address": "720 Esther St, Vancouver, WA 98660",
+      "trails": [
+        "Coffee & Chill",
+        "Arts & Culture"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "elements",
+      "name": "Elements Restaurant",
+      "category": "Restaurant",
+      "address": "907 Main St, Vancouver, WA 98660",
+      "trails": [
+        "Food",
+        "Date Night"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "amaros-table",
+      "name": "Amaro\u2019s Table Downtown",
+      "category": "Restaurant / Cocktail Bar",
+      "address": "1220 Main St #100, Vancouver, WA 98660",
+      "trails": [
+        "Food",
+        "Date Night"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "little-conejo",
+      "name": "Little Conejo Vancouver",
+      "category": "Tacos / Restaurant",
+      "address": "114 W 6th St, Vancouver, WA 98660",
+      "trails": [
+        "Food",
+        "Date Night"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "pacific-house",
+      "name": "Pacific House",
+      "category": "Restaurant / Gastropub",
+      "address": "819 Main St, Vancouver, WA 98660",
+      "trails": [
+        "Food",
+        "Date Night"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "carino",
+      "name": "Cari\u00f1o Coffeehouse",
+      "category": "Coffee",
+      "address": "1002 Main St, Vancouver, WA 98660",
+      "trails": [
+        "Coffee & Chill",
+        "Date Night"
+      ],
+      "status": "prospective"
+    },
+    {
+      "id": "urban-eccentric",
+      "name": "Urban Eccentric",
+      "category": "Resale / Vintage",
+      "address": "2309 Main St, Vancouver, WA 98660",
+      "trails": [
+        "Vintage & Resale"
+      ],
+      "status": "prospective"
+    }
+  ],
+  "trails": [
+    {
+      "id": "food",
+      "name": "Vancouver Food Trail",
+      "emoji": "\ud83c\udf7d\ufe0f",
+      "tagline": "Four stops. One food-focused Vancouver experience.",
+      "time": "2.5\u20134 hours",
+      "target": "Locals and visitors who want variety instead of choosing only one restaurant.",
+      "stops": [
+        "little-conejo",
+        "elements",
+        "amaros-table",
+        "pacific-house"
+      ]
+    },
+    {
+      "id": "date-night",
+      "name": "Vancouver Date Night Trail",
+      "emoji": "\u2764\ufe0f",
+      "tagline": "Browse. Coffee. Dinner. Drinks.",
+      "time": "3\u20134 hours",
+      "target": "Couples, new dates, and friends looking for an easy evening plan.",
+      "stops": [
+        "most-everything-vintage",
+        "carino",
+        "elements",
+        "amaros-table"
+      ]
+    },
+    {
+      "id": "vintage-resale",
+      "name": "Vancouver Vintage & Resale Trail",
+      "emoji": "\ud83d\udc55",
+      "tagline": "Go hunting for something you won't see everywhere.",
+      "time": "1\u20132 hours",
+      "target": "Thrifters, collectors, vintage shoppers, and fashion-focused customers.",
+      "stops": [
+        "most-everything-vintage",
+        "urban-eccentric"
+      ]
+    },
+    {
+      "id": "coffee",
+      "name": "Vancouver Coffee & Chill Trail",
+      "emoji": "\u2615",
+      "tagline": "Make your coffee run an afternoon.",
+      "time": "2\u20133.5 hours",
+      "target": "Coffee lovers, remote workers, students, and casual meetups.",
+      "stops": [
+        "relevant-coffee",
+        "brewed-cafe-pub",
+        "kafiex",
+        "carino"
+      ]
+    },
+    {
+      "id": "arts-culture",
+      "name": "Vancouver Arts & Culture Trail",
+      "emoji": "\ud83c\udfa8",
+      "tagline": "Explore local culture through independent spots.",
+      "time": "1.5\u20132.5 hours",
+      "target": "People who want to discover Vancouver beyond the usual itinerary.",
+      "stops": [
+        "kafiex",
+        "relevant-coffee",
+        "most-everything-vintage"
+      ]
+    }
+  ]
+}
